@@ -1,10 +1,10 @@
 #!/bin/bash
 
-CONFIG_FILE='lightpaycoin.conf'
-CONFIGFOLDER='/root/.lightpaycoin'
-COIN_DAEMON='/usr/local/bin/lightpaycoind'
-COIN_CLI='/usr/local/bin/lightpaycoin-cli'
-COIN_REPO='https://github.com/lpcproject/LightPayCoin/releases/download/v1.0.0.1/lightpaycoin-1.0.0-x86_64-linux-gnu.tar.gz'
+CONFIG_FILE='baisyccoin.conf'
+CONFIGFOLDER='/root/.baisyccoin'
+COIN_DAEMON='/usr/local/bin/baisyccoind'
+COIN_CLI='/usr/local/bin/baisyccoin-cli'
+COIN_REPO='https://github.com/lpcproject/BaisycCoin/releases/download/v1.0.0.1/lightpaycoin-1.0.0-x86_64-linux-gnu.tar.gz'
 COIN_NAME='LightPayCoin'
 COIN_PORT=39797
 
