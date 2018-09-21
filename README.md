@@ -40,9 +40,9 @@ startmasternode "alias" "0" "MN1"
 
 ## Usage:
 ```
-lightpaycoin-cli getinfo
-lightpaycoin-cli mnsync status
-lightpaycoin-cli masternode status
+baisyccoin-cli getinfo
+baisyccoin-cli mnsync status
+baisyccoin-cli masternode status
 ```
 Also, if you want to check/start/stop **LightPayCoin** , run one of the following commands as **root**:
 
