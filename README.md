@@ -44,19 +44,19 @@ baisyccoin-cli getinfo
 baisyccoin-cli mnsync status
 baisyccoin-cli masternode status
 ```
-Also, if you want to check/start/stop **LightPayCoin** , run one of the following commands as **root**:
+Also, if you want to check/start/stop **BaisycCoin** , run one of the following commands as **root**:
 
 **Ubuntu 16.04**:
 ```
-systemctl status LightPayCoin #To check the service is running.
-systemctl start LightPayCoin #To start LightPayCoin service.
-systemctl stop LightPayCoin #To stop LightPayCoin service.
-systemctl is-enabled LightPayCoin #To check whetether LightPayCoin service is enabled on boot or not.
+systemctl status BaisycCoin #To check the service is running.
+systemctl start BaisycCoin #To start BaisycCoin service.
+systemctl stop BaisycCoin #To stop BaisycCoin service.
+systemctl is-enabled BaisycCoin #To check whetether BaisycCoin service is enabled on boot or not.
 ```
 **Ubuntu 14.04**:  
 ```
-/etc/init.d/LightPayCoin start #To start LightPayCoin service
-/etc/init.d/LightPayCoin stop #To stop LightPayCoin service
-/etc/init.d/LightPayCoin restart #To restart LightPayCoin service
+/etc/init.d/BaisycCoin start #To start BaisycCoin service
+/etc/init.d/BaisycCoin stop #To stop BaisycCoin service
+/etc/init.d/BaisycCoin restart #To restart BaisycCoin service
 ```
 ***
