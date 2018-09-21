@@ -5,7 +5,7 @@ Script to install a baisycCoin Masternode on Windows 10 and a Linux server runni
 ## Installation:
 ```
 git clone https://github.com/BaisycCoin/bsycInstall.git
-cd byscinstall
+cd bsycInstall
 bash bsyc-install.sh
 ```
 ***
